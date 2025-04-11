@@ -3,7 +3,7 @@
 
 ## 過去のセミナー
 
-### 第16回
+### 第17回
 #### Speaker 1: 井元 佑介 先生 （京都大学高等研究院ASHBi 特定准教授）
 タイトル: １細胞データ科学への数理科学の挑戦
 
@@ -13,6 +13,17 @@
 * 日時：2023年11月24日（水） 15:00-16:30
 * 非公開
 * 発表言語：日本語
+
+### 第16回
+#### Speaker 1: Prof. Hsueh Fen Juan（National Taiwan University）
+タイトル: Systems biology-based drug repositioning
+
+#### Speaker 2: Prof. Hsuan Cheng Huang（National Yang Ming Chiao Tung University）
+タイトル: Learning Gene Networks from Single-Cell Data
+
+* 日時：2023年10月23日（月） 16:00-18:00
+* 公開
+* 発表言語：英語
 
 
 ### 第15回
