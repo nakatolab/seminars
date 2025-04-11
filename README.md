@@ -1,2 +1,2 @@
-# seminars
+# Open seminars
 Nakato lab open seminars
