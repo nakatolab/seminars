@@ -15,10 +15,10 @@
 * 発表言語：日本語
 
 ### 第16回
-#### Speaker 1: Prof. Hsueh Fen Juan（National Taiwan University）
+#### Speaker 1: Prof. Hsueh Fen Juan (National Taiwan University)
 タイトル: Systems biology-based drug repositioning
 
-#### Speaker 2: Prof. Hsuan Cheng Huang（National Yang Ming Chiao Tung University）
+#### Speaker 2: Prof. Hsuan Cheng Huang (National Yang Ming Chiao Tung University)
 タイトル: Learning Gene Networks from Single-Cell Data
 
 * 日時：2023年10月23日（月） 16:00-18:00
