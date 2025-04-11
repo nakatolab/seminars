@@ -1,2 +1,3 @@
-# Open seminars
-Nakato lab open seminars
+# Nakatolab Open Seminars
+
+See https://nakatolab.github.io/seminars/
