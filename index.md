@@ -3,6 +3,40 @@
 
 ## 過去のセミナー
 
+### 第16回
+#### Speaker 1: 井元 佑介 先生 （京都大学高等研究院ASHBi 特定准教授）
+タイトル: １細胞データ科学への数理科学の挑戦
+
+#### Speaker 2: 藤岡 秀成 先生 （京都大学大学院 医学研究科　免疫細胞生物学　助教）
+タイトル: Single cell multiomicsにより解明されるヒトCD4+ T細胞の一生
+
+* 日時：2023年11月24日（水） 15:00-16:30
+* 非公開
+* 発表言語：日本語
+
+### 第15回
+#### Speaker: 神元 健児 先生 (Washington University)
+タイトル: Dissecting cell identity via network inference and in silico gene perturbation
+
+要旨: <br>
+　Recent technological advances in single cell sequencing enable the acquisition of multi dimensional data in a high throughput manner, revealing the existence of heterogeneity and the diversity of cell states and identities To dissect the regulatory mechanisms underlying such phenomena, many computational methods to infer Gene Regulatory Networks ( have been proposed However, the biological network is so complex that it is challenging to understand how GRN systematically dictates cell identities There is significant demand for new methodologies that bridge the gap between cellular phenotypes and the underlying GRN model Thus, we have developed a new method, CellOracle for the analysis of GRNs CellOracle first infers sample specific GRN configurations from single cell RNA seq and ATAC seq data Our GRN models are designed to be used to simulate cell identity changes in response to gene perturbation This simulation enables network configurations to be interrogated in relation to cell fate regulation, facilitating their interpretation We validate the efficacy of CellOracle to recapitulate known outcomes of well characterized gene perturbations in developmental processes, including mouse and human hematopoiesis We also apply CellOracle to zebrafish embryogenesis, systematically perturbing transcription factors and experimentally validating key candidates, identifying a novel mechanism that regulates cell identity in axial mesoderm development
+
+* 日時：2023年3月8日（水） 15:00-16:00
+* 公開：Zoom配信なし
+* 発表言語：日本語
+
+
+### 第14回
+#### Speaker 1: Dr. Kristian Jeppsson (Karolinska Institutet)
+#### Title: The Smc5/6 complex associates with transcription-induced positive DNA supercoils that accumulate at the base of cohesin-dependent chromosomes loops
+
+#### Speaker 2: Dr. Andrea Kriz (Harvard Medical School)
+#### Title: Balancing cohesin eviction and retention prevents aberrant chromosomal interactions, Polycomb-mediated repression, and X-inactivation
+
+* 日時：2022年11月29日（火） 15:30-17:30
+* 公開：Zoom配信なし
+* 発表言語：英語
+
 ### 第13回
 #### Speaker: 前原 ⼀満 先生（九州⼤学 ⽣体防御医学研究所, JSTさきがけ）
 #### Title: 単⼀細胞オミクスデータの性能評価から利活⽤まで
@@ -12,7 +46,6 @@
 * 日時：2022年3月24日（木） 13:00-14:00
 * 公開：Zoom配信あり
 * 発表言語：日本語
-
 
 ### 第12回
 #### Speaker: 岡部 篤史 先生（千葉大学大学院 医学研究院 分子腫瘍学）
