@@ -1,3 +1,9 @@
 remote_theme: pages-themes/dinky@v0.2.0
 #theme: jekyll-theme-slate
 title: Nakatolab Open Seminars
+
+plugins:
+  - jekyll-remote-theme
+
+include:
+  - _includes/head-custom.html
