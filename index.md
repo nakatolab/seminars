@@ -15,7 +15,7 @@
 　Gene regulatory changes drive evolutionary innovations like human cerebellum expansion. We analyzed single-cell gene expression and chromatin accessibility across six mammals (human, bonobo, macaque, marmoset, mouse, opossum), identifying conserved and diverged regulatory networks in cerebellum development. We identified core regulators of cell identity and developed sequence-based models that revealed conserved regulatory codes. By predicting chromatin accessibility across 240 mammalian species, we traced evolutionary histories of human cis-regulatory elements, including recent THRB expression gain in cerebellar progenitors. Our ongoing work examines how transposable elements contribute to regulatory innovation by integration into cell type-specific regulatory networks during hindbrain development. Collectively, our work reveals shared and lineage-specific regulatory programs governing cerebellum development.
 
 * 公開：Zoom配信なし
-* 発表言語：日本語
+* 発表言語：英語
 
 ### 第17回 （2023年11月24日（水） 15:00-16:30）
 #### Speaker 1: 井元 佑介 先生 （京都大学高等研究院ASHBi 特定准教授）
