@@ -7,6 +7,16 @@
 
 ## 過去のセミナー
 
+### 第19回 （2025年6月10日（火） 15:00-16:00）
+#### Speaker: Prof. Hsuan Cheng Huang (National Yang Ming Chiao Tung University)
+タイトル: Learning single-cell RNA velocity with cell-specific kinetics
+
+要旨: <br>
+　Single-cell RNA sequencing has transformed our understanding of cellular dynamics, with RNA velocity serving as a powerful tool for inferring developmental trajectories. Traditional velocity models assume uniform kinetic parameters across cells, overlooking cellular heterogeneity. I will present our neural network framework that addresses this limitation by inferring velocity vectors from neighboring cell information, enabling computation of cell-specific kinetic parameters. This approach improves trajectory inference accuracy and enables prediction of potential cell fates and in silico perturbation of transcriptional rates. I will also introduce our ongoing work applying flow matching methods to RNA velocity inference, discussing our implementation strategies and current challenges.
+
+* 公開：Zoom配信なし
+* 発表言語：英語
+
 ### 第18回 （2025年5月20日（火） 15:00-16:00）
 #### Speaker: 山田 哲矢 先生 (Heidelberg University)
 タイトル: The Evolution of Gene Regulation in Mammalian Cerebellum Development
